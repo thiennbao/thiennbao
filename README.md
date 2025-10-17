@@ -1,7 +1,7 @@
 <div width="100%">
   <img width="100%" height="200px" src="aurora.svg" />
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?lines=Hello+There+👋;This+is+Thien+Bao+🗣️;Nice+to+meet+you+✨&font=Cascadia+Code&size=30&color=70A5FD" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+There+👋;This+is+Thien+Bao+🗣️;Nice+to+meet+you+✨&font=Cascadia+Code&size=30&color=70A5FD" />
   </h1>
 </div>
 
@@ -18,6 +18,7 @@
 
 <div>
   <h2>🍳 Things I cook with</h2>
+  <img alt="typeorm" src="https://img.shields.io/badge/-TypeORM-AE2823?style=flat-square&logo=typeorm&logoColor=white" />
   <img alt="mongoose" src="https://img.shields.io/badge/-Mongoose-BB3333?style=flat-square&logo=mongoose&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -27,14 +28,19 @@
   <img alt="handlebarsjs" src="https://img.shields.io/badge/Handlebars.js-F0772B?style=flat-square&logo=handlebars.js&logoColor=white" />
   <img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-F7801E.svg?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="scikitlearn" src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="huggingface" src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img alt="jetpackcompose" src="https://img.shields.io/badge/Jetpack_Compose-2EB76B?style=flat-square&logo=jetpackcompose&logoColor=white" />
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="prisma" src="https://img.shields.io/badge/Prisma-10B981?style=flat-square&logo=Prisma&logoColor=white" />
-  <img alt="mongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="nodejs" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="springboot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="springsecurity" src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+  <img alt="mongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="arduino" src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" />
   <img alt="numpy" src="https://img.shields.io/badge/NumPy-0080B0.svg?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="pytest" src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
   <img alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/React-45B8D8?style=flat-square&logo=react&logoColor=white" />
   <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
